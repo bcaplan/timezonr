@@ -1,0 +1,12 @@
+{
+  "name": "Timezonr",
+  "version": "1.0",
+  "manifest_version": 1,
+  "description": "Get the location and time zone from a US/Canada area code",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "http://www.allareacodes.com/"
+  ]
+}
